@@ -1,5 +1,34 @@
-# Comp 310 - Group NEE
+[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-7f7980b617ed060a017424585567c406b6ee15c891e84e1186181d67ecf80aa0.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=13589158)
+# Team Nee - Comp 310 Project
+#### TEAM MEMBERS: Ella McKenney, Erin Robertson, Nancy Rojas
 
-Group Members: Erin Robertson, Ella McKenney, Nancy Rojas
+# Project Progress
 
-Forth Project
+## Week One
+
+- Ella: Added a DUP function, pushed older files to git. Forked repository and sent in a pull request – Erin granted on 4/10/2024.  
+- Nancy: Pushed files to git, Forked Repo and sent in a pull request. Erin granted on 4/11/2024
+- Erin: Created repo, so I cannot fork. Granted Ella’s pull request, and pushed older files to git.
+
+## Week Two
+
+- Ella: Merged Files on 4/13. Made checklist on 4/17. Added Min/Max functionality on 4/18. Added ABS/NEGATE functionality on 4/19.
+- Nancy: Made Corrections to Merged files 4/15-4/16, currently working on my end. | Fixed and is now able to compile and run. Will add GoogleTests over weekend. 4/18
+
+
+## Week Three
+
+- Ella: Updated results format, added FLOOR/CEIL/PICK/PICKN functionality on 4/21 (FLOOR/CEIL developed on 4/20, forgot to push to git). Added repeat/loop functionality - loop only works for push n at the moment - on 4/22. Updated min/max to include recursion - tests may need to be rerun - on 4/24. Will discuss in meeting on 4/25.
+- Nancy: Debugging newly added Functions 4/21, adding tests for functions, Debugging Functions & Tests and overall program to be able to run all functions that have been added 4/22-4/23
+- Erin: Working on continuous documentation, adding tests for functions on 4/21 and 4/22 in collaboration with Nancy
+
+## Week Four - Debugging!
+Tests: There are functioning tests for: Min,Max,abs,negate. We are working on floor,ceil,pick,pickn still.<br>
+Functions: The following functions are working as of right now: min,max,abs,pick,pickn,negate. Working on getting Ceil and Floor working. <br>
+
+
+## Plans for the week:
+
+- Ella: Start making functions recursive.
+- Nancy: Will help with Testing and in making it more like the gforth.
+- Erin: Take charge on the documentation and help with testing.
